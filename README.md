@@ -1,0 +1,1 @@
+# partiel-E.Namiech-GBS1
