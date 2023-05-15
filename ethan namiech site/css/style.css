@@ -1,0 +1,18 @@
+html{
+    padding: 50%;
+}
+
+.debut{
+    background-image: url("../img/manette.png");
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
